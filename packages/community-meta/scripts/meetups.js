@@ -3,21 +3,21 @@ const waitingCOC = [
     title: "Dublin TypeScript Meetup",
     twitter: "https://twitter.com/DubTypeScript",
     url: "https://www.meetup.com/Dublin-TypeScript-Meetup",
-    image: "dublin-ts.jpg",
+    image: "linhdao-ts.jpg",
     country: "🇮🇪"
   },
   {
     title: "London TypeScript Meetup",
     twitter: "https://twitter.com/LndTypeScript",
     url: "https://www.meetup.com/London-Typescript-Meetup",
-    image: "london-ts.jpg",
+    image: "thuyduong-ts.jpg",
     country: "🇬🇧"
   },
   {
     title: "Warsaw TypeScript",
     twitter: "https://twitter.com/wwatypescript",
     url: "https://www.meetup.com/Warsaw-Typescript",
-    image: "warsaw-ts.jpg",
+    image: "manhhai-ts.jpg",
     country: "🇵🇱"
   }
 ]

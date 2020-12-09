@@ -20,7 +20,7 @@ const cross = chalk.bold.redBright("⤫")
 
 const go = async () => {
   let meetupDeets = []
-  console.log("Looking at meetups: ")
+  console.log("Looking at lookup: ")
 
   for (const meetup of meetups) {
     if (meetup !== meetups[0]) process.stdout.write(", ")
