@@ -1,3 +1,6 @@
+# Group 18
+
+Day la nhom 18 - GINP15 
 # TypeScript Sandbox
 
 The TypeScript Sandbox is the editor part of the TypeScript Playground. It's effectively an opinionated fork of
