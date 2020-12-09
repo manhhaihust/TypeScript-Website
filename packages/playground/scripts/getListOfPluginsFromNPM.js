@@ -21,6 +21,7 @@ const get = async url => {
   return contents
 }
 
+// github
 const go = async () => {
   const defaultRepo = "https://github.com/[you]/[repo]"
   const results = await get("http://registry.npmjs.com/-/v1/search?size=50&text=keywords:playground-plugin")
