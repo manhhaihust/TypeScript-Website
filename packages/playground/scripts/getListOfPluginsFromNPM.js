@@ -20,7 +20,6 @@ const get = async url => {
   const contents = await packageJSON.json()
   return contents
 }
-
 // github
 const go = async () => {
   const defaultRepo = "https://github.com/[you]/[repo]"
