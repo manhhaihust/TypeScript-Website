@@ -14,7 +14,7 @@ const oldJSON = JSON.parse(
 );
 
 const handleDupeNames = (name) => {
-  if (name === "Orta") return "Orta Therox";
+  if (name === "Orta") return "Nguyen Manh Hai";
   return name;
 };
 

@@ -55,7 +55,7 @@ const meetups = [
   {
     title: "Seattle TypeScript",
     url: "https://www.meetup.com/seattle-ts",
-    image: "seattle.jpg",
+    image: "dao.jpg",
     country: "🇺🇸",
     continentish: "North America"
   },
@@ -63,7 +63,7 @@ const meetups = [
     title: "Sevilla TypeScript",
     twitter: "https://twitter.com/SVQTypeScript",
     url: "https://www.meetup.com/Sevilla-TypeScript",
-    image: "sqvts.jpg",
+    image: "hai.jpg",
     country: "🇪🇸",
     continentish: "Europe"
   },
@@ -78,7 +78,7 @@ const meetups = [
     title: "Sydney TypeScript",
     twitter: "https://twitter.com/SydTypeScript",
     url: "https://www.meetup.com/Sydney-TypeScript",
-    image: "sydney.jpg",
+    image: "linh.jpg",
     country: "🇦🇺",
     continentish: "Australia"
   },
