@@ -50,3 +50,8 @@ default to english.
 The script is in [`scripts/generateTOC.js`](scripts/generateTOC.js), with  
 \output of the build process is then copied into the `typescriptlang-org`
 module under `static/js/examples` in [`scripts/copyFiles.js`](scripts/copyFiles.js).
+# Group 18
+- Nguyễn Mạnh Hải
+- Nguyễn Tiến Minh
+- Mai Anh Tuấn
+- Lê Văn Thọ
